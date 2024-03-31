@@ -1,7 +1,7 @@
 # IPTV
-Questa repository contiene tutti i link ai principali canali TV e Radio nazionali italiani in un file m3u da aprire con un qualsiasi programma che supporti file playlist. I link sono tutti estrapolati dagli stream ufficiali, e per questo dovrebbero essere visibili legalmente soltanto all'interno dell'Italia.
+Questa repository contiene tutti i link ai principali canali TV e Radio nazionali italiani, in particolare nel territorio pugliese e nello specifico in provincia di Bari. Sono contenuti in un file `.m3u` da aprire con un qualsiasi programma che supporti file playlist. I link sono tutti estrapolati dagli stream ufficiali, e per questo dovrebbero essere visibili legalmente soltanto all'interno dell'Italia.
 
-La repository è un fork di [questa](https://github.com/Tundrak/IPTV-Italia), nel quale sono stati aggiunti canali e radio presenti nel territorio pugliese e nello specifico in provincia di Bari.
+La repository ha origine da [questa](https://github.com/Tundrak/IPTV-Italia) repo.
 
 # Come usarla
 
